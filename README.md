@@ -7,7 +7,9 @@ my nix configuration
 # install
 
 Install NixOS
+
 Copy the [configuration.nix](./configuration.nix) file
+
 Rebuild nixos and switch
 
 ## In this repo
