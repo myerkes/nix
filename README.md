@@ -1,6 +1,6 @@
 # nix
 
-[![uses nix](https://img.shields.io/badge/uses-nix-%237EBAE4)](https://nixos.org/) 
+[![uses nix](https://img.shields.io/badge/uses-nix-%237EBAE4)](https://nixos.org/)
 
 my nix configuration
 
@@ -17,3 +17,7 @@ Rebuild nixos and switch
 ### [configuration.nix](./configuration.nix)
 
 This file contains my NixOS configuration
+
+### [home.nix](./home.nix)
+
+This file contains a base nix home manager configuration
